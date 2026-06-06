@@ -9,7 +9,7 @@ The analysis investigate if Age and Sex plays a major role in Weight
 Development in animals specifically in Goat
 
 ## Objective
-# Determine the effect of Age, Height, and Sex on goat Weight.
+## Determine the effect of Age, Height, and Sex on goat Weight.
 * Model 1
   Weight ~ Age + Height
 * Model 2
